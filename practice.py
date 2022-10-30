@@ -1,4 +1,6 @@
-def Echo():
+# MARK: -  prartice code
+
+# def Echo():
 #     Text = "Hello world"
 #     return Text
 
